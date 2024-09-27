@@ -35,4 +35,4 @@ Siga as instruções oficiais do https://flutter.dev/docs/get-started/install.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/MarceloAugusto58/Agenda
